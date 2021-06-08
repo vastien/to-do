@@ -1,6 +1,9 @@
 # To-do ✅
 To-do list with localeStorage
 
+  <p align="center">
+  https://bastie.me/to-do/</p>
+  
 ## What is the locale storage?
 
 The localStorage and sessionStorage properties allow to save key/value pairs in a web browser.
